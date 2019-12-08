@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321176282393",
+    "firebase_url": "https://sakurarestaurant-d245c.firebaseio.com",
+    "project_id": "sakurarestaurant-d245c",
+    "storage_bucket": "sakurarestaurant-d245c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321176282393:android:31def9cffe2a393a799188",
+        "android_client_info": {
+          "package_name": "com.example.sakurarestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321176282393-dldofhcqmadfclq0ga5gsjbcqh9pfolp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sakurarestaurant",
+            "certificate_hash": "6d525ff62c58802d97e76d8acd361244355b0fef"
+          }
+        },
+        {
+          "client_id": "321176282393-p7iopg82ovm74nu50ev0r5gp8hq7ev6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKzrmSHzB3uEUTbHKQp8bYaIAZdihSFic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321176282393-p7iopg82ovm74nu50ev0r5gp8hq7ev6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
